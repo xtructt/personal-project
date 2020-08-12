@@ -20,6 +20,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -78,6 +84,7 @@
       <updated>1597239749583</updated>
       <workItem from="1597239750798" duration="1725000" />
       <workItem from="1597246734283" duration="1509000" />
+      <workItem from="1597270764580" duration="3172000" />
     </task>
     <servers />
   </component>
@@ -93,5 +100,13 @@
       <screen x="0" y="0" width="1985" height="1152" />
     </state>
     <state x="502" y="221" key="SettingsEditor/0.0.1985.1152@0.0.1985.1152" timestamp="1597247308645" />
+    <state x="811" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597272833935">
+      <screen x="0" y="0" width="1985" height="1152" />
+    </state>
+    <state x="811" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1985.1152@0.0.1985.1152" timestamp="1597272833935" />
+    <state x="655" y="253" key="search.everywhere.popup" timestamp="1597272610410">
+      <screen x="0" y="0" width="1985" height="1152" />
+    </state>
+    <state x="655" y="253" key="search.everywhere.popup/0.0.1985.1152@0.0.1985.1152" timestamp="1597272610410" />
   </component>
 </project>
